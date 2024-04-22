@@ -1,1 +1,1 @@
-# This my Web Clipper homepages for Wallabag
+# This is my Web Clipper homepages for Wallabag
